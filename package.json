@@ -9,6 +9,13 @@
     "type": "git",
     "url": "https://github.com/17axah/quasar-app-extension-auth.git"
   },
+  "keywords": [
+    "quasar-framework",
+    "quasar",
+    "auth",
+    "vuejs",
+    "jwt"
+  ],
   "bugs": "https://github.com/17axah/quasar-app-extension-auth/issues",
   "homepage": "https://github.com/17axah/quasar-app-extension-auth.git",
   "engines": {
