@@ -3,7 +3,7 @@ function extendConf (conf, api) {
     conf.framework.plugins.push('Cookies');
   }
 
-  conf.boot.push(`quasar-app-extension-auth/src/boot/auth`);
+  conf.boot.push(`~quasar-app-extension-auth/src/boot/auth`);
 
   conf.build.transpileDependencies.push(/quasar-app-extension-auth[\\/]src/);
   conf.build.transpileDependencies.push(/vue-simple-auth/);
