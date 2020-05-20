@@ -1,0 +1,22 @@
+{
+  "name": "quasar-app-extension-auth",
+  "version": "1.0.0",
+  "description": "Quasar auth extension",
+  "author": "Rustam Gainulin <17axaH@mail.ru>",
+  "license": "MIT",
+  "main": "src/index.js",
+  "repository": {
+    "type": "git",
+    "url": ""
+  },
+  "bugs": "",
+  "homepage": "",
+  "engines": {
+    "node": ">= 8.9.0",
+    "npm": ">= 5.6.0",
+    "yarn": ">= 1.6.0"
+  },
+  "dependencies": {
+    "vue-simple-auth": "^1.0.0"
+  }
+}
